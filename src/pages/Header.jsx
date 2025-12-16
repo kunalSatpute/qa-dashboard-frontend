@@ -21,7 +21,7 @@ export default function Header() {
 
   return (
     <div style={styles.header}>
-      <h3>💬 Q&A Dashboard</h3>
+      <h3>Q&A Dashboard</h3>
 
       {userId ? (
         <div style={styles.right}>

@@ -5,7 +5,7 @@ export default function Landing() {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>💬 Q&A Dashboard</h1>
+      <h1 style={styles.title}>Q&A Dashboard</h1>
       <p style={styles.subtitle}>
         Ask questions, get answers in real time
       </p>
